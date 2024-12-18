@@ -1,0 +1,10 @@
+Hacer sumar(a, b) {
+    numero resultado = a + b;
+    -Escribir(resultado);
+}
+
+-Tarea- {
+    numero x = 3;
+    numero y = 7;
+    --sumar(x, y);
+}

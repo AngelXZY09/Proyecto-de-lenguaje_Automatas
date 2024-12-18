@@ -1,0 +1,7 @@
+-Tarea- {
+    numero x = 0;
+    -mientras(x -MenorOigual 5) {
+        -Escribir(x);
+        x = x + 1;
+    }
+}

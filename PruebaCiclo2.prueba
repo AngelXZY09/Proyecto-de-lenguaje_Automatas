@@ -1,0 +1,10 @@
+-Tarea- {
+    numero x = 0;
+    -repetir 3 veces {
+        -Escribir("Repetición número: " + x);
+        -mientras(x -Menor 3) {
+            -Escribir("Dentro del mientras, x: " + x);
+            x = x + 1;
+        }
+    }
+}

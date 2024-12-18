@@ -1,0 +1,5 @@
+-Tarea- {
+    numero x = 9;
+    -Raíz resultado = x;
+    -Escribir("La raíz cuadrada de x es: " + resultado);
+}

@@ -1,0 +1,8 @@
+-Tarea- {
+    numero x = 3;
+    -Si(x -Igual 3) {
+        -Escribir("X es 3");
+    } -Sino {
+        -Escribir("X no es 3");
+    }
+}

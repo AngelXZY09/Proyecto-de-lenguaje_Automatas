@@ -1,0 +1,12 @@
+Hacer salirCine(permiso) {
+    -Si(permiso) {
+        -Escribir("Me dieron permiso, puedo ir.");
+    } -Sino {
+        -Escribir("No me dieron permiso, no puedo ir");
+    }
+}
+
+-Tarea- {
+    verdadero_falso permiso = verdadero;
+    -- salirCine(permiso);
+}

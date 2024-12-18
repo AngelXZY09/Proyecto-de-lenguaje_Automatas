@@ -1,0 +1,11 @@
+-Tarea- {
+    numero x = 10;
+    numero y = 5;
+    -Si(x -Mayor 5) {
+        -Si(y -Menor 10) {
+            -Escribir("Ambas condiciones son ciertas");
+        }
+    } -Sino {
+        -Escribir("La primera condición no es cierta");
+    }
+}

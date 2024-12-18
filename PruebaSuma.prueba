@@ -1,0 +1,5 @@
+-Tarea- {
+    numero Num1 = 7;
+    numero Num2 = 5;
+    -Escribir(Num1 + Num2);
+}

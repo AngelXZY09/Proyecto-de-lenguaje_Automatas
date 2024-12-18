@@ -1,0 +1,10 @@
+Hacer saludar(nombre) {
+    -Escribir("Hola, " + nombre);
+}
+
+-Tarea- {
+    texto nombre = "Mundo";
+    -repetir 3 veces {
+        --saludar(nombre);
+    }
+}

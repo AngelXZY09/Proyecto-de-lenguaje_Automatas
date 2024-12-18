@@ -1,0 +1,6 @@
+-Tarea- {
+    numero x = 5;
+    texto saludo = "Hola, mundo";
+    -Escribir(x);
+    -Escribir(saludo);
+}

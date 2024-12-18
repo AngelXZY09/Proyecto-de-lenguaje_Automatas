@@ -1,0 +1,7 @@
+-Tarea- {
+
+    -repetir 5 veces { 
+        -Escribir("Hola, mundo!");
+    } 
+
+}

@@ -3,4 +3,4 @@
 Este proyecto está hecho con Antlr, con fines educativos.
 Los integrantes de equipo que desarrollo: Angel Moises Batun Mena, Christian Alexis Toloza Hernández y Sergio Iván García Ramírez.
 
-## _La funcionalidad es recibir en texto de un codigo que nosostros creasmo y se pasa para leer y identificar los componetes para pasarlo a lenguaje de programacion Python_
+## _La funcionalidad es recibir el texto de un codigo que se creó y se pasa para leer e identificar los componentes, para después pasarlo a lenguaje de programacion Python._
